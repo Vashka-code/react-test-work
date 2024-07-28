@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "place": 1,
+      "name": "Anja",
+      "score": 3.851,
+      "prize": "10000"
+    },
+    {
+      "place": 2,
+      "name": "Vasja",
+      "score": 3.753,
+      "prize": "9500€"
+    },
+    {
+      "place": 3,
+      "name": "Dima",
+      "score": 3.612,
+      "prize": "9000€"
+    },
+    {
+      "place": 4,
+      "name": "Kolja",
+      "score": 3.121,
+      "prize": "8000€"
+    },
+    {
+      "place": 5,
+      "name": "Pasha",
+      "score": 3.032,
+      "prize": "7000€"
+    },
+    {
+      "place": 6,
+      "name": "Grace Funsho",
+      "score": 3.032,
+      "prize": "7000€"
+    },
+    {
+      "place": 7,
+      "name": "Grace Funsho",
+      "score": 3.032,
+      "prize": "7000€"
+    },
+    {
+      "place": 8,
+      "name": "Grace Funsho",
+      "score": 3.032,
+      "prize": "7000€"
+    },
+    {
+      "place": 9,
+      "name": "Grace Funsho",
+      "score": 3.032,
+      "prize": "7000€"
+    },
+    {
+      "place": 10,
+      "name": "Grace Funsho",
+      "score": 3.032,
+      "prize": "7000€"
+    }
+  ]
+}

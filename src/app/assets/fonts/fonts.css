@@ -1,0 +1,23 @@
+@font-face {
+  font-family: "AA BadaBoom BB";
+  src: local("AA BadaBoom BB"), local("AA-BadaBoom-BB"),
+    url("./aa_badaboom_bb/aa_badaboom_bb.woff2") format("woff2"),
+    url("./aa_badaboom_bb/aa_badaboom_bb.woff") format("woff");
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "Merriweather_Sans";
+  src: local("Merriweather_Sans"), local("Merriweather-Sans"),
+    url("./Merriweather_Sans/MerriweatherSans-Regular.woff2") format("woff2"),
+    url("./Merriweather_Sans/MerriweatherSans-Regular.woff") format("woff");
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "Merriweather_Sans";
+  src: local("Merriweather_Sans"), local("Merriweather-Sans"),
+    url("./Merriweather_Sans/MerriweatherSans-Bold.woff2") format("woff2"),
+    url("./Merriweather_Sans/MerriweatherSans-Bold.woff") format("woff");
+  font-weight: 700;
+}
